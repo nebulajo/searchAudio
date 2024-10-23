@@ -14,6 +14,8 @@
 ```bash
 -- MUSIC-TEXT-REPRESENTATION-PP
 ---- ckpt
+-------- last.pth
+-------- hparams.yaml
 ---- datasets
 ---- song_describer
 -------- song_describer.csv
