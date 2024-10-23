@@ -3,6 +3,7 @@
 본 프로젝트는  [TTMR++](#)(Enriching Music Descriptions with a Finetuned-LLM and Metadata for Text-to-Music Retrieval) 연구의 모델과 가중치를 사용하였습니다.
 
 ## DEMO
+![KakaoTalk_20241023_152433514](https://github.com/user-attachments/assets/81b4a23d-a859-4cd9-af65-f28066926a26)
 
 ## Open Source Material
 - [Pre-trained model weights](https://huggingface.co/seungheondoh/ttmr-pp/tree/main) 
