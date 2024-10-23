@@ -20,6 +20,12 @@
 -------- audio
 ```
 
+## Install
+* Python==3.9
+```bash
+pip install .
+```
+
 ## Run Gradio
 
 * Run Gradio
