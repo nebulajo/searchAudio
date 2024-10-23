@@ -39,16 +39,6 @@ sys.path.append("~/music-text-representation-pp")
 ### License
 This project is under the CC-BY-NC 4.0 license.
 
-## Finetuned LLaMA2 for Tag-to-Caption Augmentation
-- see this repo: [Tag-to-Caption Augmentation using Large Language Model](https://github.com/seungheondoh/llm-tag-to-caption)
-
-## Acknowledgement
-Part of the code is borrowed from the following repos. We would like to thank the authors of these repos for their contribution.
-
-- Modified ResNet: [OpenAI CLIP](https://github.com/openai/CLIP/tree/main)
-- Audio Frontend: [OpenAI Whisper](https://github.com/openai/whisper/blob/main/whisper/audio.py)
-- Distributed Data Parallel Training: [Pytorch DDP](https://pytorch.org/tutorials/beginner/ddp_series_theory.html)
-
 ## Citation
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follow.
 
